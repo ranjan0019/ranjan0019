@@ -95,5 +95,5 @@ I’m currently looking for opportunities in:
 ### ✍️ Typing Banner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E8B57&center=true&vCenter=true&multiline=true&width=480&lines=Passionate+Data+Analyst+and+ML+Engineer;Skilled+in+Java+Python+C+HTML+JS;Building+Projects+and+Learning+Daily" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=2E8B57&center=true&vCenter=true&width=300&lines=Welcome" />
 </p>
