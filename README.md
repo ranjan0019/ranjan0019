@@ -95,11 +95,5 @@ I’m currently looking for opportunities in:
 ### ✍️ Typing Banner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&width=500&lines=Aspiring+Data+Analyst+%26+ML+Engineer;Java+%7C+Python+%7C+C+%7C+HTML+%7C+JS;Let%27s+Build+and+Learn+Together!" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E8B57&center=true&vCenter=true&multiline=true&width=480&lines=Passionate+Data+Analyst+and+ML+Engineer;Skilled+in+Java+Python+C+HTML+JS;Building+Projects+and+Learning+Daily" />
 </p>
