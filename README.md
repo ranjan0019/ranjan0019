@@ -93,11 +93,5 @@ I’m looking for opportunities in:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=440&lines=Aspiring+Data+Analyst+%26+ML+Engineer.;Java+%7C+Python+%7C+C+%7C+HTML+%7C+JS.;Let%27s+Build+and+Learn+Together!" />
-</p>
-
----
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
