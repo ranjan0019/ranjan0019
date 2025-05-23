@@ -9,43 +9,43 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 MCA student with a strong foundation in **software development** and **data analysis**.
-- 💡 Proficient in **Java, Python, C, HTML, JavaScript** with solid backend & data handling skills.
-- 📊 Interested in blending *code + data* to deliver smart, real-world solutions.
+- 🎓 MCA student passionate about solving real-world problems with code & data.
+- 💡 Skilled in **Java, Python, C, HTML, JavaScript**, and strong with *DSA and MySQL*.
+- 🤖 Interested in the intersection of **Machine Learning** and **Data Analysis**.
 - 📫 Reach me at: **khitishranjan0019@gmail.com**
 
 ---
 
 ### 🌟 Personal Highlights
 
-- 🏆 Participated in **ProjectThon 2025** with a K-Means Clustering visualization tool.
-- 💼 Developed *CampusConnect* — a full Java Swing + MySQL communication platform.
-- 🧠 Built mini tools to automate daily tasks using Python.
-- 📊 Hands-on with data cleaning, analysis, and visualization.
+- 🏆 Participated in **ProjectThon 2025** with a K-Means Clustering visualizer.
+- 💼 Built *CampusConnect* — a Java Swing + MySQL app for student collaboration.
+- 🧠 Developed automation tools using Python and real-time ML models.
+- 📊 Worked on small data projects with Power BI and Matplotlib.
 
 ---
 
-### 🎯 Wishing Field
+### 🎯 Career Goals
 
-I’m looking for opportunities in:
+I’m currently looking for opportunities in:
 
-- 📊 **Data Analyst** (Entry-Level or Intern)
-- 🤖 **Machine Learning Intern**
-- 👨‍💻 **Software Developer (Java/Python)**
-- 🌐 **Frontend Developer (HTML, JavaScript)**
-- 🧪 **QA/Software Tester**
-
----
-
-### 📚 Currently Learning
-
-- 📈 Power BI dashboards and data storytelling
-- 🧠 Advanced ML models: Decision Trees, SVMs, Clustering
-- ⚡ Full stack basics with HTML/CSS/JavaScript + backend scripting
+- 📊 **Data Analysis & Visualization**
+- 🤖 **Machine Learning Internships**
+- 👨‍💻 **Software Development (Java/Python)**
+- 🧪 **QA / Testing Roles**
+- 🌐 **Frontend Development (HTML, JS)**
 
 ---
 
-### 🧰 Tech Stack & Known Languages
+### 📚 Currently Exploring
+
+- 📈 Power BI dashboards
+- 🧠 SVM, Decision Trees, and Clustering
+- 🌐 Responsive web interfaces using JS & APIs
+
+---
+
+### 🧰 Tech Stack & Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -53,8 +53,8 @@ I’m looking for opportunities in:
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Visualization-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power%20BI-FAAF40?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
@@ -63,10 +63,10 @@ I’m looking for opportunities in:
 
 ### 📁 Featured Projects
 
-- 💻 **CampusConnect** – Java Swing + MySQL-based student collaboration platform.
-- 📊 **ML Clustering Tool** – Python-based K-Means GUI app.
-- 🧮 **CSV Insight Tool** – Python script for summarizing data.
-- 🌐 **Personal Webpage** – Built using HTML, CSS & JavaScript.
+- 💻 **CampusConnect** – Java Swing + MySQL-based collaboration platform
+- 📊 **ML Clustering Tool** – Python GUI for K-Means demonstration
+- 🧮 **CSV Analyzer** – Command-line Python utility for quick data insights
+- 🌐 **Portfolio Page** – Built using HTML, CSS, and JS
 
 ---
 
@@ -88,6 +88,14 @@ I’m looking for opportunities in:
   <a href="mailto:khitishranjan0019@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+### ✍️ Typing Banner
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&width=500&lines=Aspiring+Data+Analyst+%26+ML+Engineer;Java+%7C+Python+%7C+C+%7C+HTML+%7C+JS;Let%27s+Build+and+Learn+Together!" />
 </p>
 
 ---
